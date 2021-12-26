@@ -1,0 +1,4 @@
+name = input("what is yuor name? ")
+birth_year = input("Enter you'r burth year: ")
+age = 2020 - int(birth_year)
+print(f"you'r name is {name} and yuo are {age} year old")
